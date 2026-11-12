@@ -37,10 +37,10 @@ I'm building my foundation in large language models, machine learning, and algor
 |---|---|
 | [nebula-ai-hub_my-work](https://github.com/sandro9800/nebula-ai-hub_my-work) | Homework and exercises in ML, LLMs and algorithms |
 
-## 📊 GitHub stats
+## 📊 GitHub activity
 
-![Sandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandro9800&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandro9800&layout=compact&hide_border=true)
+![Followers](https://img.shields.io/github/followers/sandro9800?style=for-the-badge&logo=github&label=Followers)
+![Last commit](https://img.shields.io/github/last-commit/sandro9800/nebula-ai-hub_my-work?style=for-the-badge&logo=git&logoColor=white&label=Last%20commit)
 
 ## 🌍 Languages
 
