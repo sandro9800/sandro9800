@@ -9,6 +9,7 @@ I'm building my foundation in large language models, machine learning, and algor
 ## 🔭 What I'm working on
 
 - 🎓 Studying at **Nebula AI Hub**: LLMs, machine learning, algorithms and more
+- ⚙️ Building **[Horinox](https://github.com/sandro9800/Horinox)**, a native Rust mod for Horizon / Minecraft
 - 🛠️ Building personal projects, including my own website with an admin panel
 - 📂 Course work lives in [nebula-ai-hub_my-work](https://github.com/sandro9800/nebula-ai-hub_my-work)
 
@@ -17,12 +18,14 @@ I'm building my foundation in large language models, machine learning, and algor
 - Large Language Models (LLMs)
 - Machine Learning fundamentals
 - Algorithms & data structures
+- Rust (through Horinox)
 - Clean, maintainable code and good Git workflow
 
 ## 🧰 Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,6 +38,7 @@ I'm building my foundation in large language models, machine learning, and algor
 
 | Project | Description |
 |---|---|
+| [Horinox](https://github.com/sandro9800/Horinox) | Native Rust mod for Horizon / Minecraft, packaged as an official `.hmod` with a custom Command Center GUI (work in progress) |
 | [nebula-ai-hub_my-work](https://github.com/sandro9800/nebula-ai-hub_my-work) | Homework and exercises in ML, LLMs and algorithms |
 
 ## 📊 GitHub activity
